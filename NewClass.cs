@@ -8,5 +8,8 @@ namespace PIS_vjezba1
 {
     internal class NewClass
     {
+        void aaa (){
+            Console.WriteLine("MMA");
+        }
     }
 }
