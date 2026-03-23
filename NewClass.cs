@@ -10,6 +10,7 @@ namespace PIS_vjezba1
     {
         void aaa (){
             Console.WriteLine("MMA");
+            Console.WriteLine("mama");
         }
     }
 }
