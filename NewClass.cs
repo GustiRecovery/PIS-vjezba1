@@ -8,5 +8,6 @@ namespace PIS_vjezba1
 {
     internal class NewClass
     {
+        Console.WriteLine("mama");
     }
 }
